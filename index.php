@@ -78,11 +78,12 @@ rel="stylesheet">
           <i class="bi bi-house-door-fill"></i>
           <span class="text-[15px] ml-4 text-gray-200">Home</span>
         </div>
+        <a href="pay.php">
         <div class="p-2.5 mt-2 flex items-center rounded-md px-4 duration-300 cursor-pointer  hover:bg-orange-500">
             <i class="bi bi-bag-fill"></i>
             <span class="text-[15px] ml-4 text-gray-200">Packages</span>
           </div>
-          
+          </a>
 
 
         <hr class="my-4 text-gray-600">
@@ -155,7 +156,7 @@ rel="stylesheet">
             <img alt="content" class="object-cover object-center h-full w-full" src="https://source.unsplash.com/random/1202x502/?instagram">
           </div>
           <h2 class="title-font text-2xl font-medium text-gray-900 mt-6 mb-3">Instagram Boost!</h2>
-          <a href="pay.html">
+          <a href="pay.php">
           <button        class="flex mx-auto mt-6 text-white bg-pink-500 border-0 py-2 px-5 focus:outline-none hover:bg-black-600 rounded">Join now!</button></a>
         </div>
     </div>
@@ -380,7 +381,7 @@ rel="stylesheet">
         
          
         </a>
-        <a href="pay.html">
+        <a href="pay.php">
         <button class="flex ml-auto text-white bg-pink-500 border-0 py-2 px-6 focus:outline-none hover:bg-pink-600 rounded">Buy Now!</button></a>
       </div>
     </div>
